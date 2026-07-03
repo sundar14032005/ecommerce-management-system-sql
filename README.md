@@ -131,19 +131,6 @@ This project is designed for learning, practice, and portfolio purposes.
 
 ---
 
-## 📊 Project Structure
-
-```
-E-Commerce-Management-System/
-│
-├── schema.sql
-├── sample_data.sql
-├── queries.sql
-├── README.md
-└── ER_Diagram.png
-```
-
----
 
 ## 🧩 Entity Relationship
 
@@ -197,13 +184,6 @@ The database consists of the following relationships:
 
 ---
 
-## ⚠️ Note
-
-This project is created for educational and portfolio purposes.
-
-Passwords in the sample data are stored as plain text for demonstration only. In real-world applications, passwords should always be securely hashed and encrypted.
-
----
 
 ## 👨‍💻 Author
 
@@ -211,18 +191,6 @@ Passwords in the sample data are stored as plain text for demonstration only. In
 
 Computer Science & Engineering Graduate
 
-### Skills
-
-* MySQL
-* SQL
-* JavaScript
-* HTML
-* CSS
-* React
-* Python
-* Django
-
----
 
 ## ⭐ If you found this project useful, please consider giving it a Star on GitHub!
 
